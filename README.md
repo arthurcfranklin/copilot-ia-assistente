@@ -40,7 +40,12 @@ Este repositório tem finalidade documental, apresentando o conceito e o conteú
 
 ## Prints do Copiloto em Ação (Opcional)
 
-Aqui estão algumas capturas de tela do copiloto funcionando no Microsoft Copilot Studio:
+Capturas de tela do copiloto funcionando no Microsoft Copilot Studio:
 
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/screen1.png" alt="Print do DIO Copilot 1" width="300" />
+  <img src="screenshots/screen2.png" alt="Print do DIO Copilot 2" width="300" />
+  
+</div>
 
 --- 
