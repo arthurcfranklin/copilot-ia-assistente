@@ -40,6 +40,7 @@ Este repositório tem finalidade documental, apresentando o conceito e o conteú
 
 ## Prints do Copiloto em Ação (Opcional)
 
-*(Adicione aqui capturas de tela do seu copiloto, se desejar)*
+Aqui estão algumas capturas de tela do copiloto funcionando no Microsoft Copilot Studio:
+
 
 --- 
